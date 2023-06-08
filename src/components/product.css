@@ -1,0 +1,9 @@
+body{
+    background-color: navy !important;
+}
+
+.product_img {
+    height: 15vh !important;
+    width: 30% !important;
+}
+
